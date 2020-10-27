@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Items</string>
+    <string-array name="Titles">
+        <item>Title1 example</item>
+        <item>Title2 example</item>
+        <item>Title3 example</item>
+        <item>Title4 example</item>
+    </string-array>
+    <string-array name="Subtitles">
+        <item>Title1 example subtitle example</item>
+        <item>Title2 example subtitle example</item>
+        <item>Title3 example subtitle example</item>
+        <item>Title4 example subtitle example</item>
+    </string-array>
+    <string-array name="Descriptions">
+        <item>Title1 example this are just words typed here in order to make a description there not today yesterday monday </item>
+        <item>Title2 example just words and words and words and words</item>
+        <item>Title3 example words and nothing else why are words here? does not know sad</item>
+        <item>Title4 example another bunch of words that does not mean anything</item>
+    </string-array>
+</resources>
